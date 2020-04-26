@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i("MyTag","Testing push");
+        Log.i("MyTag","Testing commit and push");
     }
 }
